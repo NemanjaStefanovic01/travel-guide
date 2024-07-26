@@ -11,6 +11,7 @@ function App() {
       <p className='font-subheading'>MY APP</p>
       <p className='font-pharagraph'>My app</p>
       <p className='font-smallText'>My app</p>
+      <p className='font-smallText'>Travel Guide</p>
     </div>
   )
 }
